@@ -1,0 +1,1 @@
+# nendSDK-ironSource-Unity-CustomAdapter-XML-private
