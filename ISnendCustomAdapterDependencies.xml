@@ -1,13 +1,13 @@
 <!-- Copyright (C) FAN Communications, Inc. -->
 <dependencies>
   <androidPackages>
-    <androidPackage spec="net.nend.android:nend-custom-event-ironsource:9.0.0.1">
+    <androidPackage spec="net.nend.android:nend-custom-event-ironsource:9.0.0.2">
       <repositories>
         <repository>https://fan-adn.github.io/nendSDK-Android-lib/library</repository>
       </repositories>
     </androidPackage>
   </androidPackages>
   <iosPods>
-    <iosPod name="IronSourceNendCustomAdapter" version="7.4.0.1"></iosPod>
+    <iosPod name="IronSourceNendCustomAdapter" version="7.4.0.2"></iosPod>
   </iosPods>
 </dependencies>
